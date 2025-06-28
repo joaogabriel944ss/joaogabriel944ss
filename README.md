@@ -15,7 +15,7 @@
 ## SOBRE MIM❗
 Atualmente, estou cursando o curso de Desenvolvedor Fullstack para WEB na instituição SENAI.
 
-IDIOMAS INGLES, ESPANHOL📚 Aprendendo
+
 
 Sou bastante criativo e aprendo qualquer coisa bem rapido. Se ainda não sei algo, pode ter certeza: em poucos dias, estarei dominando o assunto que me for solicitado.
 
