@@ -10,10 +10,5 @@
   <img align="center" alt="JAO-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-
-
-## SOBRE MIM❗
-
-
   -
   EMAIL PARA CONTATO 📩: joaogabriel944ss@gmail.com
