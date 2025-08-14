@@ -13,16 +13,6 @@
 
 
 ## SOBRE MIM❗
-Atualmente, estou cursando o curso de Desenvolvedor Fullstack para WEB na instituição SENAI.
-
-
-
-Sou bastante criativo e aprendo qualquer coisa bem rapido. Se ainda não sei algo, pode ter certeza: em poucos dias, estarei dominando o assunto que me for solicitado.
-
-## OBJETIVOS⭐
-Estou a procura de me desenvolver e melhorar meus conhecimentos, e aumentar minha 
-experiência profissional dentro do mercado de trabalho, visando sempre o crescimento 
-entre mim e a empresa.
 
 
   -
